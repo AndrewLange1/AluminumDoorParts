@@ -1,0 +1,1 @@
+web: cd aluminumdoorparts && npm start
